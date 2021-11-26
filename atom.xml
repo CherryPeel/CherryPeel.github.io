@@ -6,7 +6,7 @@
   <link href="https://ayc.moe/atom.xml" rel="self"/>
   
   <link href="https://ayc.moe/"/>
-  <updated>2021-11-07T09:49:14.080Z</updated>
+  <updated>2021-11-26T07:50:37.408Z</updated>
   <id>https://ayc.moe/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://ayc.moe/2021/11/07/%E6%A2%A6%E6%83%B3%E6%89%AC%E5%B8%86%E8%B5%B7%E8%88%AA/"/>
     <id>https://ayc.moe/2021/11/07/%E6%A2%A6%E6%83%B3%E6%89%AC%E5%B8%86%E8%B5%B7%E8%88%AA/</id>
     <published>2021-11-07T09:00:00.000Z</published>
-    <updated>2021-11-07T09:49:14.080Z</updated>
+    <updated>2021-11-26T07:50:37.408Z</updated>
     
     <content type="html"><![CDATA[<p><strong>欢迎！</strong></p><p><strong>余荷蛙个人博客正式启动！</strong></p><p><strong>2021-11-07</strong></p>]]></content>
     
@@ -35,6 +35,8 @@
       
     
     
+    
+    <category term="心情" scheme="https://ayc.moe/categories/%E5%BF%83%E6%83%85/"/>
     
     
   </entry>
