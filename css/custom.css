@@ -1,3 +1,10 @@
-/* #aside-content .card-widget{
-    background:#3838388a!important;
-  } */
+#aside-content .card-widget{
+    background:#ffffff0f!important;
+  }
+#recent-posts > .recent-post-item {
+    background:#ffffff0f!important;
+  }
+#page-header.not-top-img #nav{
+    background:#ffffff0f!important;
+  }
+  
