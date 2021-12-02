@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ayc.moe/2021/12/02/2022%E5%86%AC%E5%AD%A3%E7%95%AA%E5%89%A7%EF%BC%88%E6%97%A5%EF%BC%89/</loc>
+    <loc>https://ayc.moe/GalleryGroup/anime/20211202/index.html</loc>
     
     <lastmod>2021-12-02</lastmod>
     
@@ -10,6 +10,20 @@
   
   <url>
     <loc>https://ayc.moe/GalleryGroup/index.html</loc>
+    
+    <lastmod>2021-12-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ayc.moe/about/index.html</loc>
+    
+    <lastmod>2021-12-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ayc.moe/2021/12/02/2022%E5%86%AC%E5%AD%A3%E7%95%AA%E5%89%A7%EF%BC%88%E6%97%A5%EF%BC%89/</loc>
     
     <lastmod>2021-12-02</lastmod>
     
@@ -26,13 +40,6 @@
     <loc>https://ayc.moe/2021/11/07/announcement/</loc>
     
     <lastmod>2021-12-01</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ayc.moe/about/index.html</loc>
-    
-    <lastmod>2021-11-26</lastmod>
     
   </url>
   
