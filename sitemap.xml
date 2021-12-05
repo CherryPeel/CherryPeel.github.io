@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ayc.moe/GalleryGroup/index.html</loc>
+    
+    <lastmod>2021-12-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ayc.moe/GalleryGroup/anime/20211205/index.html</loc>
+    
+    <lastmod>2021-12-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ayc.moe/2021/11/07/announcement/</loc>
     
     <lastmod>2021-12-02</lastmod>
@@ -17,13 +31,6 @@
   
   <url>
     <loc>https://ayc.moe/GalleryGroup/anime/20211202/index.html</loc>
-    
-    <lastmod>2021-12-02</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ayc.moe/GalleryGroup/index.html</loc>
     
     <lastmod>2021-12-02</lastmod>
     
@@ -81,7 +88,7 @@
 
   <url>
     <loc>https://ayc.moe/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -89,14 +96,14 @@
   
   <url>
     <loc>https://ayc.moe/tags/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ayc.moe/tags/%E7%95%AA%E5%89%A7/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -105,14 +112,14 @@
   
   <url>
     <loc>https://ayc.moe/categories/%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ayc.moe/categories/%E7%95%AA%E7%9B%AE/</loc>
-    <lastmod>2021-12-04</lastmod>
+    <lastmod>2021-12-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
